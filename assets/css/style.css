@@ -1,7 +1,17 @@
+/* This section is to style all divs boxes of webpage*/
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+}
+
+
+/* This will style the Navigation Anchor points*/
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }
 
 body {
@@ -39,11 +49,6 @@ body {
 .header ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
 }
 
 p {
